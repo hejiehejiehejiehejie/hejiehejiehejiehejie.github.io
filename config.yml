@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: 我的博客
+description: 我的个人博客，记录生活点滴
+theme: jekyll-theme-cayman
+url: "https://<your-username>.github.io"  # 替换 <your-username>
+baseurl: ""  # 如果你的博客直接使用根路径，可以留空
